@@ -19,7 +19,7 @@ dependencies:
   meta: ^1.7.0
   optional: ^6.1.0+1
   pointycastle: ^3.7.3
-  protobuf: ^2.0.0
+  protobuf: ^3.1.0
   very_good_analysis: ^5.0.0+1
   x25519: ^0.1.1
 
