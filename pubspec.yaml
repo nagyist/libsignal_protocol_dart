@@ -6,17 +6,17 @@ topics:
  - crypto
 
 environment:
-  sdk: '>=3.2.0 <4.0.0'
+  sdk: '>=3.4.0 <4.0.0'
 
 
 dependencies:
   adaptive_number: ^1.0.0
   collection: ^1.19.0
-  convert: ^3.1.1
-  crypto: ^3.0.3
+  convert: ^3.1.2
+  crypto: ^3.0.6
   ed25519_edwards: ^0.3.1
-  fixnum: ^1.0.0
-  meta: ^1.7.0
+  fixnum: ^1.1.1
+  meta: ^1.16.0
   optional: ^6.1.0+1
   pointycastle: ^3.9.1
   protobuf: ^3.1.0
